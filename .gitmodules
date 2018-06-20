@@ -1,0 +1,3 @@
+[submodule "nlpkit"]
+	path = nlpkit
+	url = https://github.com/patrickmesana/nlpkit.git
